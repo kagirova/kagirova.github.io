@@ -1,1 +1,0 @@
-{"errors":[{"message":"Cannot query field \"instaNode\" on type \"Query\".","locations":[{"line":10,"column":3}]},{"message":"Cannot query field \"allInstaNode\" on type \"Query\".","locations":[{"line":13,"column":3}]},{"message":"Unknown type \"ImageSharpFluid\".","locations":[{"line":41,"column":44}]}],"pageContext":{"isCreatedByStatefulCreatePages":true}}
